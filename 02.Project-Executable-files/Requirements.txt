@@ -1,0 +1,4 @@
+Requirements to run project:
+
+1. create a virtual environment.
+2. install flask, NumPy, scikit-learn.
